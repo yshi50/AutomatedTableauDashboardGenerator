@@ -1,4 +1,4 @@
-# GTableauPipeline
+# Automated Tableau Dashboard Generator
 
 An R Package that Automates Tableau Dashboard Generation Using Data in the ADAM Format.
 
