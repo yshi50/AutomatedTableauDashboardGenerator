@@ -1,0 +1,20 @@
+Package: GTableauPipeline
+Type: Package
+Title: Automated Tableau Dashboard Generation
+Version: 2.0
+Author: Yuyang Shi, Yuan Tian
+Maintainer: Yuyang Shi <yuyang.shi3@gilead.com>
+Description: Automatically Generate Tableau Dashboard from Template Dashboard
+    More Content Goes Here
+License: None
+Encoding: UTF-8
+LazyData: true
+Depends:
+  tidyverse,
+  dplyr,
+  tidyr,
+  haven,
+  readr,
+  GDataQuery,
+  crayon
+RoxygenNote: 7.3.1
