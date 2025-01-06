@@ -4,8 +4,8 @@
 \name{GTableauPipeline-package}
 \alias{GTableauPipeline}
 \alias{GTableauPipeline-package}
-\title{GTableauPipeline: Automated Tableau Dashboard Generation}
+\title{GTableauPipeline: Automated Tableau Dashboard Generation Pipeline}
 \description{
-Automatically Generate Tableau Dashboard from Template Dashboard More Content Goes Here
+This pipeline provides an automatically Tableau dashboard generator with a user-friendly GUI
 }
 \keyword{internal}
