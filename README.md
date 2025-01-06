@@ -11,7 +11,7 @@ A package for automating Tableau Dashboard generation.
 
 Sys.setenv(GITHUB_PAT = "")
 
-devtools::install_github("yshi50/AutomatedTableauDashboardGenerator", ref = 'master')
+devtools::install_github("yshi50/AutomatedTableauDashboardGenerator", ref = 'main')
 ```
 ### Help
 Help document is available through `?GTableauPipeline` and `?Template`.
